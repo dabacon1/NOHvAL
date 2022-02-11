@@ -104,7 +104,7 @@ function createTrials(data) {
     //define stimuli variables
     var cur_trial_type = data[i]['trial_type'];
     var cur_stimulus = audioExt+data[i]['auditory_stimulus']+".wav";
-    var cur_images = [imageStart+data[i]['left_image']+imageStop, imageStart+data[i]['center_image']+imageStop], imageStart+data[i]['right_image']+imageStop];
+    var cur_images = [imageStart+data[i]['left_image']+imageStop, imageStart+data[i]['center_image']+imageStop, imageStart+data[i]['right_image']+imageStop];
     // var cur_left_video = videoStart+data[i]['left_video']+videoStop;
     // var cur_right_video = videoStart+data[i]['right_video']+videoStop;
     // var cur_side = data[i]['playing_side'];
