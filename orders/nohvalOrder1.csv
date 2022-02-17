@@ -32,4 +32,4 @@ block,trial_number,auditory_stimulus,left_image,center_image,right_image,target_
 4,30,koovuh_where,4Square,,1Square,4,left,0,,black-background,LWL
 4,31,teebu_find,3Square,,2Square,3,left,0,,black-background,LWL
 4,32,check_out,beach_left,,beach_right,AG,left,0,,black-background,LWL
-5,33,End,ocean_left,,ocean_right,AG,left,0,,black-background,LWL
+5,33,End,ocean-left,,ocean-right,AG,left,0,,black-background,LWL
